@@ -1,10 +1,10 @@
-# Commit-by-commit breakdown of "Build a Blockchain & Cryptocurrency | Full-Stack Edition"
+# Commit-by-commit breakdown of "Build a Blockchain & Cryptocurrency"
 
-This is a commit-by-commit breakdown of "Build a Blockchain & Cryptocurrency | Full-Stack Edition".
+This is a commit-by-commit breakdown of "Build a Blockchain & Cryptocurrency".
 This will help anyone stuck on a particular lecture. Compare your code to the relevant commit here.
 
 ## References:
-* [Course link, Build a Blockchain & Cryptocurrency | Full-Stack Edition](https://www.udemy.com/course/build-blockchain-full-stack)
+* [Course link, Build a Blockchain & Cryptocurrency](https://www.udemy.com/course/build-blockchain-full-stack)
 * [original repository](https://github.com/15Dkatz/cryptochain)
 
 ## Commits
